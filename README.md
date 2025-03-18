@@ -1,6 +1,6 @@
-# Javatopia
+# Javaccino
 
-Welcome to the Javatopia repository! This project aims to help beginners learn the fundamentals of Java programming. It covers essential topics such as:
+Welcome to the Javaccino repository! This project aims to help beginners learn the fundamentals of Java programming. It covers essential topics such as:
 
 - Basic Syntax
 - Variables
